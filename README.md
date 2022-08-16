@@ -21,4 +21,4 @@ Once I click one of the two buttons the screen changes as you can see bellow:
 ![TextToBinary_1](https://user-images.githubusercontent.com/79023856/184954855-82cf5e58-4897-482a-baa7-4d9ee3948fa3.png)
 ![BinaryToText_1](https://user-images.githubusercontent.com/79023856/184955524-bb0d2b9a-f9ea-47c2-976b-27cd7fc6b40c.png)
 
-The pictures have an example of what can be prompted. 
+The pictures above have an example of what can be prompted. 
